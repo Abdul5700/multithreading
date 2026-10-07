@@ -32,10 +32,12 @@ To develop multithreaded programs using Pthreads and OpenMP and understand threa
 ## Folder Structure
 - src/: Source code (.c files)
 - data/: Data files
-- esults/: CSV performance results
+
+esults/: CSV performance results
 - graphs/: Plotted performance graphs
 - screenshots/: Execution output screenshots
-- eport/: Laboratory reports
+ 
+eport/: Laboratory reports
 - presentation/: Slides
 
 ## Compilation Commands
